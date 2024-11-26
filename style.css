@@ -1,0 +1,119 @@
+aside{
+    width: 200px;
+}
+
+*{
+}
+
+#bandas{
+    height: 300px;
+}
+
+.olok{
+
+}
+
+.centr{
+    display: flex;
+    align-items: center;
+}
+
+header{
+    background-color: black;
+    color: #ffff;
+}
+
+.hhh :hover{
+    color: rgb(212, 218, 142);
+}
+
+.hhh{
+    font-size: 50px;
+    transition: 0.3s ease;
+}
+
+.bt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bt2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#rasho{
+    height: 45px;
+    justify-content: space-around;
+}
+
+a{
+    color: #ffff;
+    text-decoration: none;
+}
+
+p,h4,h5{
+    font-size: 15px;
+}
+
+aside{
+    width: 300px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 20px;
+}
+
+p{
+    display: flex;
+    text-align: center;
+}
+
+.jaj{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.ojo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.separao{
+    display: flex;
+    align-items: center;
+}
+
+#ola{
+    height: 20px;
+    margin: 5px;
+}
+
+.ololo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    height: 600px;
+}
+
+.olop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+}
+
+.vota{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(214, 214, 214); 
+    border-radius: 20px;
+}
